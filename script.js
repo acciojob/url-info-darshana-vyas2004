@@ -6,4 +6,4 @@ let currentURL = location.href;
 let urlLength = currentURL.length;
 
 // Display the result using alert
-alert("The length of the URL is: " + urlLength);
+alert("The length of the URL is: " + urlLength);
